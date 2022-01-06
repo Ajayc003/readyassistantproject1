@@ -1,0 +1,36 @@
+
+.a
+{
+    text-align: center;
+}
+.top-left {
+    position: absolute;
+    bottom: 40%;
+    left: 60px;
+  }
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .top-left-2 {
+    position: absolute;
+    bottom: 20%;
+    left: 60px;
+    font-size: larger;
+  }
+
+  .ab
+  {
+      padding-top: 4%;
+     
+  }
+
+  .ab2{
+      padding-top: 1%;
+      background-color:rgb(52,48,112);
+      padding-bottom: 1%;
+      padding-left: 4%;
+      text-align: center;
+      /* color: white; */
+  }

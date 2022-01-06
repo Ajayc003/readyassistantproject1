@@ -1,0 +1,10 @@
+img{
+    width: 80%;
+}
+
+.card {
+    display: block;
+    flex-direction: column;
+    /* width: auto; */
+    /* border:2px solid black */
+}

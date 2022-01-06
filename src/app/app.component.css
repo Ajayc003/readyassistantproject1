@@ -1,0 +1,57 @@
+ul {
+    list-style-type: none;
+    margin: 5px;
+    padding: 2px;
+    color:white;
+  }
+
+
+
+.row1{
+  align-items: center;
+}
+
+select{
+  float:right;
+
+}
+.v2{
+  padding:36px;
+  align-items: center;
+  padding-top: 10px;
+}
+a:hover{
+  cursor: pointer;
+
+}
+
+nav li:active{
+  color: blue;
+
+}
+a{
+ color:white;
+ font-size:bold;
+}
+
+.active{
+  color:blue;
+}
+
+
+img{
+    width:14%;
+}
+.a{
+    padding-top: 1%;
+    color: white;
+}
+
+nav{
+    background-color: rgba(108,64,100,255);  
+    color: white;
+}
+.navbar-nav{
+    color: white;
+
+}
